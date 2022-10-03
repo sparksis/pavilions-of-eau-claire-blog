@@ -5,6 +5,7 @@
       {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{
       site.description }}
     </title>
+    <meta name="robots" content="noindex">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- The page supports both dark and light color schemes, and the page author prefers / default is light. -->
@@ -32,6 +33,8 @@
   </head>
   <body class="d-flex flex-column h-100">
     <div class="container">
+      <h1>{{site.title}}</h1>
+      <p>{{site.description}}</p>
       {% include navigation.html %}
       <div class="body">{{ content }}</div>
     </div>

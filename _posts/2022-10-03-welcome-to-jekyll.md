@@ -1,29 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "re:init"
 date:   2022-10-03 00:07:49 -0500
-categories: jekyll update
+categories: blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Hello world.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I'm recreating my blog of my life @ Pavilions of Eau Claire.  This is mostly to chronical my attempt to improve the life of my neighbors as I once again find myself unfortunately on the board @ Pavilions of Eau Claire.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+My hope is that refreshing this blog will enable me to better unwind my thoughts and provide a more clear, thoughtful approach when solving the problems I face living in this unfortunately place.
 
-Jekyll also offers powerful support for code snippets:
+---
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Some secondary goals for creating this blog are as follows:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+1. Either recover old blog posts or document past losses further reviewing/critiquing my time living at pavilions of Eau Claire.
+2. Documented news about Pavilions of Eau Claire and the surounding neighboardhood.
+3. Possibly document the full extent of my financial losses related to the ownership of this condo.
