@@ -11,5 +11,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: GitHub Spellcheck Action
-      uses: rojopolis/spellcheck-github-actions@0.27.0
+    - name: Check Spellings
+      uses: check-spelling/check-spelling@v0.0.19
