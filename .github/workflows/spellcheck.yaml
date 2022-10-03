@@ -1,6 +1,6 @@
 name: Spellcheck
 on:
-  pull_request:
+  push:
     paths:
     - '**.txt'
     - '**.html'
@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Check Spelling
-      uses: rojopolis/spellcheck-github-actions@v0.5.0
+      uses: rojopolis/spellcheck-github-actions@v0.27.0
