@@ -7,9 +7,11 @@ categories: blog
 
 Hello world.
 
-I'm recreating my blog of my life @ Pavilions of Eau Claire.  This is mostly to chronical my attempt to improve the life of my neighbors as I once again find myself unfortunately on the board @ Pavilions of Eau Claire.
+I'm recreating my blog of my life @ Pavilions of Eau Claire. This is mostly to chronical my attempt to improve the life
+of my neighbors as I once again find myself unfortunately on the board @ Pavilions of Eau Claire.
 
-My hope is that refreshing this blog will enable me to better unwind my thoughts and provide a more clear, thoughtful approach when solving the problems I face living in this unfortunately place.
+My hope is that refreshing this blog will enable me to better unwind my thoughts and provide a more clear, thoughtful
+approach when solving the problems I face living in this unfortunately place.
 
 ---
 
