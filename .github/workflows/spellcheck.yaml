@@ -5,10 +5,11 @@ on:
     - '**.txt'
     - '**.html'
     - '**.md'
+    - '.github/workflows/spellcheck.yaml'
 jobs:
   spelling:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Check Spelling
-      uses: rojopolis/spellcheck-github-actions@v0.27.0
+    - name: GitHub Spellcheck Action
+      uses: rojopolis/spellcheck-github-actions@0.27.0
