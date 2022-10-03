@@ -6,5 +6,7 @@ alias jekyll="docker run --rm \
   jekyll"
 echo "alias for jekyll created."
 
+alias blog_date='date "+%F %T %z"'
+
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa-sparksis

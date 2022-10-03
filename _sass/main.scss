@@ -96,3 +96,9 @@ pre.highlight {
     display: inline-block !important;
   }
 }
+
+.post {
+  h1 {
+    font-size: calc(1.3rem + 1.5vw);
+  }
+}
