@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<p> Data is provided monthly by the Calgary Police Service.
+    This data is considered cumulative as late-reported incidents are often received well after an offence has occurred.
+    Therefore, crime counts are subject to change as they are updated.
+<!-- https://data.calgary.ca/Health-and-Safety/Community-Crime-Statistics/78gh-n26t -->
+</p>
+<div id="crimes"> </div>
+
+<div>
+    <p><strong>Source: </strong>https://data.calgary.ca/Health-and-Safety/Community-Crime-Data-Lens/sycx-s5a6</p>
+</div>
+
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+<!--TODO: precompile; lol-->
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script type="text/jsx" src="/crimes.jsx" ></script>
