@@ -5,12 +5,23 @@ layout: default
 <div id="crimes"> </div>
 
 <div>
+    <style>
+        p.source{
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            max-width: 900px;
+        }
+    </style>
+    <p class="source"><strong>Source: </strong>https://data.calgary.ca/resource/78gh-n26t.xml?$where=community_name=%27EAU%20CLAIRE%27%20and%20year=%272022%27&$order=date%20DESC</p>
+    <p>Contains information licensed under the Open Government Licence – City of Calgary.
+        <a href="https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa" class="bland">🔗</a>
+    </p>
     <p> Data is provided monthly by the Calgary Police Service.
         This data is considered cumulative as late-reported incidents are often received well after an offence has occurred.
         Therefore, crime counts are subject to change as they are updated.
     <!-- https://data.calgary.ca/Health-and-Safety/Community-Crime-Statistics/78gh-n26t -->
     </p>
-    <p><strong>Source: </strong>https://data.calgary.ca/resource/78gh-n26t.xml?$where=community_name=%27EAU%20CLAIRE%27%20and%20year=%272022%27&$order=date%20DESC</p>
 </div>
 
 <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>

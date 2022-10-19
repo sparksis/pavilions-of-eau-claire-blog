@@ -103,6 +103,11 @@ pre.highlight {
   }
 }
 
+a.bland {
+  text-decoration: none;
+  filter: grayscale(100%);
+}
+
 blockquote {
   margin-top: 0.2em;
   margin-bottom: 1em;
