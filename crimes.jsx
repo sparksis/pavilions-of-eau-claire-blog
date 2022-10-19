@@ -16,13 +16,19 @@ class Hello extends React.Component {
         });
     }
     render() {
-        return <table><tbody>{
+        return <table>
+            <thead><tr>
+                <td>Month</td>
+                <td>Category</td>
+                <td>How many reports</td>
+            </tr></thead>
+            <tbody style={{ "textTransform": "capitalize" }}>{
             this.state.data
                 .map(c => {
                     if (!(c.year && c.month)) return;
                     return <tr key={c.id}>
-                        <td style={{ "textTransform": "capitalize" }}>{c.year}-{c.month.toLowerCase()}</td>
-                        <td>{c.category}</td>
+                        <td >{c.year}-{c.month.toLowerCase()}</td>
+                        <td>{c.category.toLowerCase()}</td>
                         <td>{c.crime_count}</td>
                     </tr>
                 })
