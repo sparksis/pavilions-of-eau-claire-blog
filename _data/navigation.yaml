@@ -1,4 +1,6 @@
+- link: /
+  name: Home
+- link: /community-info/crimes.html
+  name: Crimes Stats
 - link: /terms.html
   name: Terms of Service
-- link: /crimes.html
-  name: Crimes Stats
