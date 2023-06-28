@@ -9,7 +9,7 @@ class Hello extends React.Component {
         this.downloadCrimeData();
     }
     async downloadCrimeData() {
-        const response = await fetch(new URL("78gh-n26t.json?$where=community_name='EAU CLAIRE' and year='2022'&$order=date DESC", 'https://data.calgary.ca/resource/'));
+        const response = await fetch(new URL("78gh-n26t.json?$where=community_name='EAU CLAIRE' and year='2023'&$order=date DESC", 'https://data.calgary.ca/resource/'));
         const crimes = await response.json();
         this.setState(function (state, props) {
             return { data: crimes };
