@@ -1,8 +1,9 @@
 ---
+title: re:init
+date: 2022-10-03 05:07:49 Z
+categories:
+- blog
 layout: post
-title:  "re:init"
-date:   2022-10-03 00:07:49 -0500
-categories: blog
 ---
 
 Hello world.

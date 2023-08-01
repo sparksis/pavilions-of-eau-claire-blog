@@ -1,8 +1,9 @@
 ---
+title: Preparing for the 2022-10-04 boarding meeting
+date: 2022-10-03 07:54:21 Z
+categories:
+- blog
 layout: post
-title:  "Preparing for the 2022-10-04 boarding meeting"
-date:   2022-10-03 01:54:21 -0600
-categories: blog
 ---
 
 The 2022-10-04 condo board meeting is obviously tomorrow and I'm using this space to document my
