@@ -1,3 +1,8 @@
+---
+title: Newsletter
+date: 2022-12-01 00:00:00 Z
+---
+
 # Pavilions of Eau Claire - December 2022
 
 ## Construction Update
