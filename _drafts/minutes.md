@@ -1,92 +1,163 @@
----
-title: Minutes
-date: 2023-08-29 00:00:00 Z
----
+# Meeting Minutes
 
-# Minutes
+**Date:** August 29, [Insert Year]
 
-1. Call to order 6:56
+**Time:** 6:56 PM - 9:20 PM
+
+**Location:** [Insert Location]
+
+**Present:**
+
+- [List of Attendees]
+
+**Minutes Recorder:** [Your Name]
+
+## Agenda
+
+1. Call to order at 6:56 PM.
 2. Nomination & Appointment of Officers
-   1. Dan as President
-   2. Colton as securtary
-   3. Frances as VP
-   4. Catalina as Treasurer
 3. Improvements as mandated by owners from AGM
-   1. All board members try to own all trello cards
-   2. Dan proposes assigning categories to Trello cards
-      1. Assignees would own communication to the board members during meetings
-      2. All board members may participate in all cards
-      3. We would continue to use a stagered approval limit and categories
-         would be approved  by the owning members to the lower limit approved.
-         Above the limit they would seek full board approval.
-         * existing spending limits
-           * Single approver for discressionary limit of 250<>
-             * Dan propose
-             * Frances
-           * Two board members up to 5000
-           * Quorum over 3000
-   3. Landscaping: Melanie & Colton will handle
-   4. Security: all members
-   5. Interior Maintanence: Catalina & Frances
-   6. Capital Projects: Dan & Frances
-   7. Loss & Restoration: Colton & Dan
 4. Air Conditioners
-   1. Dan is working to consolidate the minisplit policy
 5. Electrical Study
-      1. no space in the main distribution panel
-      2. they are able to expand in the cleaning space if absolutely needed
-      3. the mains do have appropriate supply
-      4. two medium speed chargers
-      5. breaker upgrades would cost 75k
-      6. air conditioner:
-         1. angie to push abrus for an additional quote
-      7. Melanie: we should complete some projects before we proceed with more.
-         1. Dan: Ripping the bandaide off will allow us to complete
-      8. Visitor Parking is now open
-      9. Epic Roofing to complete coring and sealing of stack 2
-      10. Retraining wall demoed bricks to be in tomorrow
-          1. Cement to be poured by end of week
-      11. Roofing maintainence estimates
-          1. 3 quotes available (august 25 roofing/exerior maintainence)
-              1. ~epic roofing~ true north
-              2. abrus
-              3. fort sands
-       12. Attic Seal and Wholistic Remediation
-           1.  Continue to get quotes
-       13. BECA September 2023
-           1.  Dan has prepared a script for Angie/catalyst to send quotes
-       14. CCTV Policy
-           1. Angie has provided a sample
-           2. Melanie discussed that the cleaner had become uncomfortable with the
-              with an occupant outside.
-              * Melanie directed AJ to call 911 or Catalyst if she feels unconfortable
-           3. Board to refresh the security contract card.  (Review or resume work)
-       15. Noise complaint 302:
-           1. Catalyst has captured the compliant via phone and we do not have
-               a time of incident.
-           2. The board has issued a curtosy notice
-           3. Catalyst Condos will request additional evidence for further action.
-       16. CC will post the AGM draft meeting minutes on about September 4th
-           after a review   board
-       17. Post-Construction Landscape Remediation
-           1. Melanie & Colton to review quotes with new category rules
-           2. We will remove most irrigation as part of this and the retaining wallrepair
-           3. Dan will request the retaining wall remediators to remove some of irrigation
-       18. Dan: Poet ccontract has been getting paid past expiration
-           1.  Angie: work was completed by Poet
-           2.  Dan: Work was not observably completed
-           3.  Dan: We would like our money back as we do not believe the work was completed
-           4. Angie to ask Poet for a statement of work
-              1. if a statement of work cannot be statisfactorially provided
-                 the board authorizes a chargeback.
-       19. Auditing 2023
-           1. CC: there are internal issues which are being addressed before
-              this can be completed.
-           2. Updates from CC tomorrow by noon
-       20. Investment:
-           1. The officers will need to submit to a fidiciary compliance
-       21. Unsecured toilets
-           1. Epic has been directed to remove
-       22. Pool table refresh
-           1. Catalina to follow up with CC for new quotes
-adjurn: 9:20
+6. Visitor Parking
+7. Epic Roofing
+8. Retaining Wall Demolition
+9. Roofing Maintenance Estimates
+10. Attic Seal and Wholistic Remediation
+11. BECA September 2023
+12. CCTV Policy
+13. Noise Complaint 302
+14. AGM Draft Meeting Minutes
+15. Post-Construction Landscape Remediation
+16. Poet Contract
+17. Auditing 2023
+18. Investment
+19. Unsecured Toilets
+20. Pool Table Refresh
+21. Adjournment at 9:20 PM.
+
+## Meeting Proceedings
+
+### 1. Call to Order
+
+The meeting was called to order at 6:56 PM.
+
+### 2. Nomination & Appointment of Officers
+
+- Dan was nominated and appointed as President.
+- Colton was nominated and appointed as Secretary.
+- Frances was nominated and appointed as VP.
+- Catalina was nominated and appointed as Treasurer.
+
+### 3. Improvements as Mandated by Owners from AGM
+
+- All board members are encouraged to own all Trello cards.
+- Dan proposed assigning categories to Trello cards:
+  - Assignees would own communication to the board members during meetings.
+  - All board members may participate in all cards.
+  - Staggered approval limit and categories would be approved by
+    the owning members to the lower limit approved.
+    Above the limit, they would seek full board approval.
+- Existing spending limits:
+  - Single approver for discretionary limit of $250 (Dan proposed, Frances seconded).
+  - Two board members up to $5,000.
+  - Quorum over $3,000.
+
+### 4. Air Conditioners
+
+- Dan is working to consolidate the mini-split policy.
+
+### 5. Electrical Study
+
+- Discussion points:
+  - No space in the main distribution panel.
+  - Expansion possible in the cleaning space if absolutely needed.
+  - The mains do have an appropriate supply.
+  - Two medium-speed chargers.
+  - Breaker upgrades would cost $75k.
+- Angie to push Abrus for an additional quote.
+
+### 6. Melanie: Project Completion
+
+- Melanie suggested completing some projects before proceeding with more.
+- Dan: Ripping the bandage off will allow us to complete.
+
+### 7. Visitor Parking
+
+- Visitor parking is now open.
+
+### 8. Epic Roofing
+
+- Epic Roofing will complete coring and sealing of stack 2.
+
+### 9. Retaining Wall Demolition
+
+- Retaining wall demoed bricks will arrive tomorrow.
+- Cement to be poured by the end of the week.
+
+### 10. Roofing Maintenance Estimates
+
+- Three quotes available (August 25 roofing/exterior maintenance):
+  - True North
+  - Abrus
+  - Fort Sands.
+
+### 11. Attic Seal and Wholistic Remediation
+
+- Continue to get quotes.
+
+### 12. BECA September 2023
+
+- Dan has prepared a script for Angie/Catalyst to send quotes.
+
+### 13. CCTV Policy
+
+- Angie has provided a sample policy.
+- Melanie discussed that the cleaner had become uncomfortable with an occupant outside.
+- Melanie directed AJ to call 911 or Catalyst if she feels uncomfortable.
+- Board to refresh the security contract card (Review or resume work).
+
+### 14. Noise Complaint 302
+
+- Catalyst has captured the complaint via phone, and we do not
+  have a time of the incident.
+- The board has issued a courtesy notice.
+- Catalyst Condos will request additional evidence for further action.
+
+### 15. AGM Draft Meeting Minutes
+
+- CC will post the AGM draft meeting minutes around September 4th after a board review.
+
+### 16. Post-Construction Landscape Remediation
+
+- Melanie & Colton to review quotes with new category rules.
+- Most irrigation will be removed as part of this and the retaining wall repair.
+- Dan will request the retaining wall remediators to remove some irrigation.
+
+### 17. Poet Contract
+
+- Dan raised concerns about the Poet contract and work completion.
+- Angie will ask Poet for a statement of work.
+- If a statement of work cannot be satisfactorily provided,
+  the board authorizes a chargeback.
+
+### 18. Auditing 2023
+
+- CC mentioned internal issues being addressed before completing auditing.
+- Updates from CC expected tomorrow by noon.
+
+### 19. Investment
+
+- The officers will need to submit to a fiduciary compliance.
+
+### 20. Unsecured Toilets
+
+- Epic has been directed to remove unsecured toilets.
+
+### 21. Pool Table Refresh
+
+- Catalina to follow up with CC for new quotes.
+
+### 22. Adjournment
+
+The meeting adjourned at 9:20 PM.
