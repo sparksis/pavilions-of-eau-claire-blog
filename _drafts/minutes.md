@@ -1,3 +1,8 @@
+---
+title: Minutes
+date: 2023-09-07 01:42:06.686000000 Z
+---
+
 # Meeting Minutes
 
 **Date:** August 29, [Insert Year]
